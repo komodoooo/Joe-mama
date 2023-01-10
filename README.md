@@ -10,6 +10,6 @@ Use qemu, after compiling do _`qemu-system-x86_64 boot.bin`_
 ## Running in to a real machine
 So, you're a man of culture as well. 
 
-Just flash the *boot.bin** file inside an usb.
+Just flash the **boot.bin** file inside an usb.
 ### Dependencies
 I think you're not so stupid
